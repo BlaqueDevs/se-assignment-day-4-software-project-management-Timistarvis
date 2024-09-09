@@ -68,6 +68,18 @@ Examples of Projects Suited for Agile are:
 4. Manufacturing projects (e.g., producing a car, appliance)
    
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Maintaining high standards is important because:
+1. Reliability: Ensures software works as expected.
+2. Security: Protects against vulnerabilities and data breaches.
+3. Performance: Ensures software runs efficiently.
+4. User satisfaction: Delivers a positive user experience.
+5. Delivering high-quality software enhances a company’s reputation.
+Quality management ensures that the project deliverables meet the required standards and satisfy customer's expectations.
+QA Activity: Code reviews and walkthroughs.
+QC Activity: Automated testing and manual inspections.
+
+
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
