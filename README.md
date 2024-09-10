@@ -68,19 +68,39 @@ Examples of Projects Suited for Agile are:
 4. Manufacturing projects (e.g., producing a car, appliance)
    
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+1. QA Activity: Code reviews and walkthroughs.
+2. QC Activity: Automated testing and manual inspections.
+3. CMMI (Capability Maturity Model Integration):- Framework for improving process maturity.
+4. Unit Testing: Unit tests focus on testing individual components or functions in isolation to ensure they work as expected.
+5.  Regression testing ensures that new changes or features do not break existing functionality.
+Benefits: Detects issues caused by changes in code and ensures that updates don’t introduce new bugs into the system.
+6. Bug Tracking and Management.
+7. User Acceptance Testing (UAT): involves the end-users or clients testing the system to verify that it meets their
+   requirements and functions as expected in real-world scenarios.
+
 Maintaining high standards is important because:
-1. Reliability: Ensures software works as expected.
-2. Security: Protects against vulnerabilities and data breaches.
-3. Performance: Ensures software runs efficiently.
-4. User satisfaction: Delivers a positive user experience.
-5. Delivering high-quality software enhances a company’s reputation.
+1. High-quality software ensures that customers can rely on the product.
+2. High standards help prevent the accumulation of technical debt, which can lead to long-term problems like inefficient code,
+   slower development, and more expensive maintenance down the line.
+3. Delivering high-quality software enhances a company’s reputation.
 Quality management ensures that the project deliverables meet the required standards and satisfy customer's expectations.
-QA Activity: Code reviews and walkthroughs.
-QC Activity: Automated testing and manual inspections.
-
-
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is crucial for successful project planning as it:
+1. Clarifies objectives: Ensures everyone understands what needs to be accomplished.
+2. Sets boundaries: Establishes what is included and excluded from the project.
+3. Identifies deliverables: Specifies the tangible outcomes of the project.
+4. Determines resources: Helps estimate the resources (time, money, personnel) required.
+5. Manages stakeholder expectations: Aligns expectations and prevents scope creeep.
+   A Work Breakdown Structure (WBS) is a hierarchical decomposition of the project into smaller, manageable tasks. It's useful because:
+1. Organizes tasks.
+2. Identifies dependencies.
+3. Estimates resources.
+4. Simplifies planning.
+5. Enhances communication.
+6. Identifies risks associated with specific tasks or deliverables
+
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
